@@ -1,4 +1,4 @@
-import ErdosProblems.Erdos482
+import Erdos482
 
 open Erdos482
 
